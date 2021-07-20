@@ -1,0 +1,88 @@
+automation/runnable/MyFirstTest.java
+ automation.runnable.MyFirstTest
+automation/core/properties/TestProperties.java
+ automation.core.properties.TestProperties
+automation/util/RandomString.java
+ automation.util.RandomString
+automation/runnable/DemoTest.java
+ automation.runnable.DemoTest
+automation/runnable/MySecondTest.java
+ automation.runnable.MySecondTest
+automation/core/SeleneseTest.java
+ automation.core.SeleneseTest
+automation/pom/siit/ProgramsPage.java
+ automation.pom.siit.ProgramsPage
+automation/util/LoggerUtil.java
+ automation.util.LoggerUtil
+automation/pom/siit/CommunityPage.java
+ automation.pom.siit.CommunityPage
+automation/core/logging/Screenshot.java
+ automation.core.logging.Screenshot
+automation/core/listeners/TestEventListener.java
+ automation.core.listeners.TestEventListener
+automation/pom/siit/StudentGuidePage.java
+ automation.pom.siit.StudentGuidePage
+automation/core/WaitElement.java
+ automation.core.WaitElement
+automation/core/logging/HtmlLayout.java
+ automation.core.logging.HtmlLayout
+ automation.core.logging.HtmlLayout$1
+ automation.core.logging.HtmlLayout$Builder
+automation/runnable/DemoTest2.java
+ automation.runnable.DemoTest2
+automation/util/CollectionUtil.java
+ automation.util.CollectionUtil
+automation/pom/epizy/ForgotPasswordPage.java
+ automation.pom.epizy.ForgotPasswordPage
+automation/pom/siit/ApplyToCoursePage.java
+ automation.pom.siit.ApplyToCoursePage
+ automation.pom.siit.ApplyToCoursePage$1
+automation/runnable/LoginTest.java
+ automation.runnable.LoginTest
+automation/pom/AbstractPageObject.java
+ automation.pom.AbstractPageObject
+automation/pom/siit/constants/ITKnowledge.java
+ automation.pom.siit.constants.ITKnowledge
+automation/core/browser/Browser.java
+ automation.core.browser.Browser
+ automation.core.browser.Browser$1
+automation/pom/siit/TestCenterPage.java
+ automation.pom.siit.TestCenterPage
+automation/core/Verifier.java
+ automation.core.Verifier
+automation/pom/siit/PodcastPage.java
+ automation.pom.siit.PodcastPage
+temp/TestClass.java
+ temp.TestClass
+automation/pom/siit/menu/MainMenu.java
+ automation.pom.siit.menu.MainMenu
+automation/pom/siit/ContactPage.java
+ automation.pom.siit.ContactPage
+automation/util/StringUtil.java
+ automation.util.StringUtil
+automation/pom/siit/constants/EnglishLevel.java
+ automation.pom.siit.constants.EnglishLevel
+automation/pom/epizy/HomePage.java
+ automation.pom.epizy.HomePage
+automation/pom/siit/constants/Occupation.java
+ automation.pom.siit.constants.Occupation
+automation/core/browser/BrowserSession.java
+ automation.core.browser.BrowserSession
+automation/core/browser/BrowserName.java
+ automation.core.browser.BrowserName
+automation/util/Event.java
+ automation.util.Event
+automation/core/logging/MessageLogger.java
+ automation.core.logging.MessageLogger
+automation/core/watchers/OutcomeTestWatcher.java
+ automation.core.watchers.OutcomeTestWatcher
+automation/pom/siit/BlogPage.java
+ automation.pom.siit.BlogPage
+automation/pom/siit/AbstractBaseWebsitePage.java
+ automation.pom.siit.AbstractBaseWebsitePage
+automation/core/properties/Settings.java
+ automation.core.properties.Settings
+automation/pom/epizy/LoginPage.java
+ automation.pom.epizy.LoginPage
+automation/runnable/LoginTests.java
+ automation.runnable.LoginTests
